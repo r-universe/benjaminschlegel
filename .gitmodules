@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "brant"]
 	path = brant
-	url = https://github.com/cran/brant
+	url = https://github.com/benjaminschlegel/brant
 [submodule "glm.predict"]
 	path = glm.predict
 	url = https://github.com/benjaminschlegel/glm.predict
